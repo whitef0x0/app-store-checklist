@@ -6,7 +6,8 @@ App Store Checklist
 
 
 ###Safety
-[ ] Does not contain any Objectionable Content (content that is offensive, insensitive, upsetting, intended to disgust, or in exceptionally poor taste)
+[x] Does not contain any Objectionable Content (content that is offensive, insensitive, upsetting, intended to disgust, or in exceptionally poor taste)
+
 [ ] Has filtering and reporting mechanism for User Generated Content
 [ ] Does not risk physical harm of user
 [ ] Developer Contact Information is **relevant** and **up to date**
