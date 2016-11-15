@@ -10,8 +10,12 @@ App Store Checklist
 - [ ] Has filtering and reporting mechanism for User Generated Content
 - [ ] Does not risk physical harm of user
 - [ ] Developer Contact Information is **relevant** and **up to date**
+- [ ] No continuous vibration
+
 
 ### Performance
+- [ ] Doesn't have a long startup/load time
+- [ ] Tells the user if and when their device loses its network connection.
 - [ ] App is Complete and has no Bugs
 - [ ] App is not a Beta, Demo or Trial
 - [ ] Metadata is Accurate. No Hidden or Undocumented Features
@@ -21,6 +25,7 @@ App Store Checklist
 - [ ] Does not include names, imagery or icons of any **mobile platforms** (i.e. Apple Watch, iOS, Android etc) unless part of an approved specific feature
 
 ### Business
+- [ ] Does not mention other supported platforms
 - [ ] In-App Purchases are **only purchasable** through Apple's IAP system
 - [ ] Subscriptions should provide **ongoing value to a custsomer** (i.e. be given new content)
 - [ ] Subscription Users should be able to **easily upgrade/downgrade**
@@ -30,6 +35,11 @@ App Store Checklist
 - [ ] Should not **restrictt by location or carrier**
 
 ### Design
+- [ ] Follows Apple's (Human Interface Guidelines)[https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/]
+- [ ] All Icon sizes should look identical
+- [ ] Doesn't contain porn
+- [ ] Doesn't use Apple’s UI Graphics or Logos
+- [ ] Avoid copying core functionality of the OS’s pre-installed apps
 - [ ] Design is original. Not a copyact
 - [ ] Isn't a repackaged website)
 - [ ] Doesn't have the **same Bundle IDs** as another submitted App
