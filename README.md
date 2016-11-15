@@ -18,6 +18,7 @@ App Store Checklist
 - [ ] Compatible with iPad and iPhones running **latest iOS**
 - [ ] Only uses **public APIs** 
 - [ ] Compatible with IPv6
+- [ ] Does not include names, imagery or icons of any **mobile platforms** (i.e. Apple Watch, iOS, Android etc) unless part of an approved specific feature
 
 ### Business
 - [ ] In-App Purchases are **only purchasable** through Apple's IAP system
