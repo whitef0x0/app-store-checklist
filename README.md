@@ -35,6 +35,7 @@ App Store Checklist
 - [ ] Should not **restrictt by location or carrier**
 
 ### Design
+- [ ] Name does not contain "Beta", "Demo" or "Trial"
 - [ ] Follows Apple's (Human Interface Guidelines)[https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/]
 - [ ] All Icon sizes should look identical
 - [ ] Doesn't contain porn
