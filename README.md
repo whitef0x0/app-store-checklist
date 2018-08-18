@@ -32,7 +32,7 @@ App Store Checklist
 - [ ] Should not use **content codes** to unlock new content
 - [ ] Should not be a **catalog of other apps** (aka not compete with the App Store)
 - [ ] Insurance Apps **must be free**
-- [ ] Should not **restrictt by location or carrier**
+- [ ] Should not **restrict by location or carrier**
 
 ### Design
 - [ ] Name does not contain "Beta", "Demo" or "Trial"
@@ -42,7 +42,7 @@ App Store Checklist
 - [ ] Doesn't use Apple’s UI Graphics or Logos
 - [ ] Avoid copying core functionality of the OS’s pre-installed apps
 - [ ] Design is original. Not a copyact
-- [ ] Isn't a repackaged website)
+- [ ] Isn't a repackaged website
 - [ ] Doesn't have the **same Bundle IDs** as another submitted App
 - [ ] Complies with (App Extension Programming Guide)[https://developer.apple.com/library/content/documentation/General/Conceptual/ExtensibilityPG/index.html#//apple_ref/doc/uid/TP40014214] 
 - [ ] Does not scrape from any **Apple site or service**
